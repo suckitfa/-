@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T02:45:11.803Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="n6R0V7vv_OBBGOeaR43R" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T02:47:03.685Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="LyXqSOLyUeUx0gifW2Wt" version="14.7.7" type="github">
   <diagram id="nIkWP1dEO8LnHkIpu6Ge" name="Page-1">
     <mxGraphModel dx="1472" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
             <mxPoint x="440" y="170.16666666666674" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HdGK9FtGteFxkMYbfXeP-25" value="reading" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="HdGK9FtGteFxkMYbfXeP-25" value="learningInfo" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HdGK9FtGteFxkMYbfXeP-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="HdGK9FtGteFxkMYbfXeP-28" target="HdGK9FtGteFxkMYbfXeP-25">
