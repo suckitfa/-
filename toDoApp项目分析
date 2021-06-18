@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T07:19:00.603Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="w9N7ArnhowVUUGoqfOxG" version="14.7.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T07:20:51.215Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="qbu4y6b5oNQigDgM0Kh_" version="14.7.10" type="github">
   <diagram id="zoGP9c4ccAbg9I05AbkZ" name="Page-1">
     <mxGraphModel dx="1186" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,11 +13,23 @@
         <mxCell id="t1VJSi2E7WgNncE9nyJF-2" value="App.vue" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="100" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="t1VJSi2E7WgNncE9nyJF-3" value="About" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="t1VJSi2E7WgNncE9nyJF-3" value="About.vue" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="230" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="t1VJSi2E7WgNncE9nyJF-4" value="Home" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="t1VJSi2E7WgNncE9nyJF-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t1VJSi2E7WgNncE9nyJF-4" target="t1VJSi2E7WgNncE9nyJF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1VJSi2E7WgNncE9nyJF-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t1VJSi2E7WgNncE9nyJF-4" target="t1VJSi2E7WgNncE9nyJF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1VJSi2E7WgNncE9nyJF-4" value="Home.vue" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="230" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t1VJSi2E7WgNncE9nyJF-7" value="Tasks.vue" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t1VJSi2E7WgNncE9nyJF-8" value="AddTask.vue" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="190" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
