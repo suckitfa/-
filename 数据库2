@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T03:13:11.880Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="MfYolONqfsOhBYrlffhl" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T03:16:18.142Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="YkJuZPabntzc_vfRXuRY" version="14.8.0" type="github">
   <diagram id="I6nxW3dzYVHunjf8EZHw" name="Page-1">
     <mxGraphModel dx="2087" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,14 +45,8 @@
         <mxCell id="mDDHs1DWKcsz8p98qzFt-14" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;status&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-120" y="200" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mDDHs1DWKcsz8p98qzFt-16" value="studenginfo" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="mDDHs1DWKcsz8p98qzFt-16" value="scores" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="364" y="440" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mDDHs1DWKcsz8p98qzFt-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDDHs1DWKcsz8p98qzFt-17" target="mDDHs1DWKcsz8p98qzFt-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mDDHs1DWKcsz8p98qzFt-17" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;studentid&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="500" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDDHs1DWKcsz8p98qzFt-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDDHs1DWKcsz8p98qzFt-18" target="mDDHs1DWKcsz8p98qzFt-16">
           <mxGeometry relative="1" as="geometry" />
