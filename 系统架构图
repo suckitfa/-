@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T01:25:20.745Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="QrAmVDcBz3RoYLrH8M50" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-29T01:36:19.293Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="aBeGQke0O21o1Nu7SQOZ" version="14.8.2" type="github">
   <diagram id="PXtlUFD61Y1Em-A2Vufw" name="Page-1">
     <mxGraphModel dx="1632" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,6 +153,9 @@
         </mxCell>
         <mxCell id="BRtEd11CQdr7g9i1EY69-20" value="global state&lt;br&gt;{userid, isadmin}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BRtEd11CQdr7g9i1EY69-22" value="Login.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
