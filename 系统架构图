@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T03:48:09.575Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="pI_6SLkPapMiDSGNEiGP" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-29T13:38:37.726Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="fKPhxBS32rxOXSA7pC1v" version="14.8.2" type="github">
   <diagram id="PXtlUFD61Y1Em-A2Vufw" name="Page-1">
-    <mxGraphModel dx="1776" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2080" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,9 +102,6 @@
         </mxCell>
         <mxCell id="tN9xLWAJ_vm-ERIY1NuH-1" value="客户端" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-280" y="80" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="A8-3au-W0ytKO8oitwXm-1" value="1. 本地访问的时候访问:lcoalhost:9999&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BRtEd11CQdr7g9i1EY69-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BRtEd11CQdr7g9i1EY69-4" target="BRtEd11CQdr7g9i1EY69-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
