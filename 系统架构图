@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T01:21:46.815Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="cAEhQYkrBJC1m8-NrYIF" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-29T01:22:43.300Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="sGY95109_eUNbPE1bLZn" version="14.8.2" type="github">
   <diagram id="PXtlUFD61Y1Em-A2Vufw" name="Page-1">
     <mxGraphModel dx="1632" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,6 +126,12 @@
         </mxCell>
         <mxCell id="BRtEd11CQdr7g9i1EY69-8" value="mange scores" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BRtEd11CQdr7g9i1EY69-12" value="manage keypoints" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BRtEd11CQdr7g9i1EY69-13" value="when we mentioned manage, it refers to CURD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
